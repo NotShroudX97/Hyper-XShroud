@@ -4,8 +4,8 @@
 #IMG CREDITS: @WhySooSerious
 import asyncio
 from telethon import events
-from userbot.utils import admin_cmd, edit_or_reply, sudo_cmd
-from userbot import ALIVE_NAME
+from ..utils import admin_cmd, edit_or_reply, sudo_cmd
+from . import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 
 # uptime = get_readable_time((time.time() - Lastupdate))
