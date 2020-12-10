@@ -20,14 +20,18 @@ async def amireallyalive(alive):
     reply_to_id = await reply_id(alive)
     uptime = await catdef.get_readable_time((time.time() - StartTime))
     _, check_sgnirts = check_data_base_heal_th()
-    if CAT_IMG:
-        cat_caption = f"**{CUSTOM_ALIVE_TEXT}**\n\n"
-        cat_caption += f"**{EMOJI} Database :** `{check_sgnirts}`\n"
-        cat_caption += f"**{EMOJI} Telethon version :** `{version.__version__}\n`"
-        cat_caption += f"**{EMOJI} Catuserbot Version :** `{catversion}`\n"
-        cat_caption += f"**{EMOJI} Python Version :** `{python_version()}\n`"
-        cat_caption += f"**{EMOJI} Uptime :** `{uptime}\n`"
-        cat_caption += f"**{EMOJI} Master:** {mention}\n"
+    if  CAT_IMG = "https://telegra.ph/file/c2c44df2e47dd6934ad75.jpg" 
+        cat_caption += pm_caption +=  f"➥       **//__↼🄼🄰🅂🅃🄴🅁⇀__//**      \n 『{DEFAULTUSER}』 \n"
+        cat_caption += " \n\n"
+        cat_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
+        cat_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
+        cat_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA)\n"
+        cat_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqUVNqdEPbtti4oFovEA)\n"
+        cat_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](@sameer_795)\n\n" 
+        cat_caption += "➾ **𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍 𝐁𝐘** ➣ ⭐🌟 T͙E͙A͙M͙ N͙E͙X͙T͙ L͙E͙V͙E͙L͙ 🌟⭐\n\n" 
+        cat_caption += " \n\n"
+        cat_caption += "[✨ 𝐑𝐄𝐏𝐎 ✨](@SAMEER_795) \n"
+
         await alive.client.send_file(
             alive.chat_id, CAT_IMG, caption=cat_caption, reply_to=reply_to_id
         )
