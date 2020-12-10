@@ -1,4 +1,4 @@
-# NEXT LEVEL 🔥 bot
+# NEXT LEVEL 🔥
 
 <p align="center">
 
