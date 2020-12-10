@@ -4,7 +4,7 @@
 #IMG CREDITS: @WhySooSerious
 import asyncio
 from telethon import events
-from uniborg.util import admin_cmd
+from uniborg.util import 
 from userbot import ALIVE_NAME
 from telethon.tl.types import ChannelParticipantsAdmins
 
