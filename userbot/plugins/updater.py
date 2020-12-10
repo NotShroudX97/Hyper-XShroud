@@ -167,5 +167,3 @@ async def upstream(ups):
 CMD_HELP.update({
     'updater':
     ".update\
-\nUsage: Checks if the main userbot repository has any updates and shows a changelog if so.\
-\n\n.update now\
