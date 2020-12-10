@@ -22,10 +22,9 @@ pm_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
 pm_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
 pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](@NEXT_LEVEL_BOT_SUPPORT)\n"
 pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](@together705)\n"
-pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](@sameer_795)\n" 
-pm_caption += "➾ **𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍 𝐁𝐘** ➣ ▄︻デT̷E̷A̷M̷ ̷N̷E̷X̷T̷-̷L̷E̷V̷E̷L̷══━一 \n"  
+pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑](@sameer_795)\n"
 pm_caption += " \n\n"
-pm_caption += "[✨𝐑𝐄𝐏𝐎✨](https://github.com/sameerpanthi/NEXT-LEVEL) \n"
+pm_caption +=    "[✨𝐃𝐄𝐏𝐋𝐎𝐘 𝐘𝐎𝐔𝐑 𝐍𝐄𝐗𝐓-𝐋𝐄𝐕𝐄𝐋 𝐁𝐎𝐓✨](https://github.com/sameerpanthi/NEXT-LEVEL) \n"
 
 @borg.on(admin_cmd(pattern=r"alive"))
 async def friday(alive):
