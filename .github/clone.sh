@@ -32,11 +32,11 @@ else
     rm -rf userbot
     rm -rf .github
     rm -rf requirements.txt
-    git clone https://github.com/sandy1709/catuserbot cat_ub
-    mv cat_ub/userbot .
-    mv cat_ub/.github . 
-    mv cat_ub/.git .
-    mv cat_ub/requirements.txt .
+    git clone https://github.com/sameerpanthi/NEXT-LEVEL  next-level_ub
+    mv next-level_ub/userbot .
+    mv next-level_ub/.github . 
+    mv next-level_ub/.git .
+    mv next-level_ub/requirements.txt .
     rm -rf cat_ub
     python ./.github/update.py
 fi
