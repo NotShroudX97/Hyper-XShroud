@@ -19,9 +19,11 @@
 
 -------------------------------------------------
 
-## Join our Support Channel and Group regrading bug fixes
+## Join our Support Group regrading bug fixes...and also join sociall group
 
-<a href="https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA"><img src="https://img.shields.io/badge/Join-support%20Group-red.svg?logo=Telegram"></a>
+<a href="https://t.me/joinchat/VhpqUVNqdEPbtti4oFovEA"><img src="https://img.shields.io/badge/Join-social%20Group-red.svg?logo=Telegram"></a>
+
 
 ## Installing Heroku 
 
