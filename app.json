@@ -1,6 +1,6 @@
 {
   "name": "NEXT-LEVEL",
-  "description": "A Userbot developed by @sameer_795 and maintained by #TEAM NEXT-LEVEL ",
+  "description": "A Userbot developed by @sameer_795 and maintained by #Team_NEXT-LEVEL ",
   "logo": "https://telegra.ph/file/c2c44df2e47dd6934ad75.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/sameerpanthi/NEXT-LEVEL",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
