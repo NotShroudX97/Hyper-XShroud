@@ -1,3 +1,7 @@
+#credits to @kraken_the_badass
+#beautification credits to @sensei_nex for @senseiMAXprojects
+
+#IMG CREDITS: @WhySooSerious
 import asyncio
 from telethon import events
 from uniborg.util import admin_cmd
@@ -8,20 +12,21 @@ from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 
 """ =======================CONSTANTS====================== """
-        PM_IMG = "https://telegra.ph/file/c2c44df2e47dd6934ad75.jpg" 
+PM_IMG = "https://telegra.ph/file/09924cb2a1bd1a9c733b2.mp4" 
 """ =======================CONSTANTS====================== """
-        pm_caption += pm_caption +=  f"➥       **//__↼🄼🄰🅂🅃🄴🅁⇀__//**      \n 『{DEFAULTUSER}』 \n"
-        pm_caption += " \n\n"
-        pm_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
-        pm_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
-        pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA)\n"
-        pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqUVNqdEPbtti4oFovEA)\n"
-        pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](@sameer_795)\n\n" 
-        pm_caption += "➾ **𝐌𝐀𝐈𝐍𝐓𝐀𝐈𝐍 𝐁𝐘** ➣ ⭐🌟 T͙E͙A͙M͙ N͙E͙X͙T͙ L͙E͙V͙E͙L͙ 🌟⭐\n\n" 
-        pm_caption += " \n\n"
-        pm_caption += "[✨ 𝐑𝐄𝐏𝐎 ✨](@SAMEER_795) \n"
+pm_caption = "➣    **🔥 𝐒𝐀𝐕𝐀𝐆𝐄 𝐁𝐎𝐓 🔥 𝐈𝐒** `𝐎𝐍𝐋𝐈𝐍𝐄`\n\n"
 
-        @borg.on(admin_cmd(pattern=r"alive"))
+pm_caption +=  f"➥       **//__↼🄼🄰🅂🅃🄴🅁⇀__//**      \n 『{DEFAULTUSER}』 \n"
+pm_caption += " \n\n"
+pm_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
+pm_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
+pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/UQyPTRUIxWeFG-ye6AfeFg)\n"
+pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/UQyPTVfUnFXr-7VWXZehBQ)\n"
+pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](@sameer_705)\n\n" 
+pm_caption += " \n\n"
+pm_caption += "[✨ Đ€ƤŁØ¥ ¥ØỮŘ ŞΔVΔǤ€ βØŦ ✨](https://github.com/sameerpanthi/SAVAGE) \n"
+
+@borg.on(admin_cmd(pattern=r"alive"))
 async def friday(alive):
     chat = await alive.get_chat()
     """ For .alive command, check if the bot is running.  """
