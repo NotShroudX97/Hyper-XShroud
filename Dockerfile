@@ -1,7 +1,7 @@
 FROM sameerpanthi/NEXT-LEVEL:latest
 
 #clonning repo 
-RUN git clone https://github.com/sameerpanthi/NEXT-LEVEL.git /root/userbot
+RUN git clone https://github.com/sameerpanthi/NEXT-LEVEL /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
