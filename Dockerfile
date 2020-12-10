@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:latest
+FROM sameerpanthi/NEXT-LEVEL:latest
 
 #clonning repo 
 RUN git clone https://github.com/sameerpanthi/NEXT-LEVEL.git /root/userbot
