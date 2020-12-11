@@ -3,7 +3,7 @@
 from telethon import events
 import asyncio
 from collections import deque
-from uniborg.util import admin_cmd
+from ..utils import admin_cmd, edit_or_reply, sudo_cmd
 
 @borg.on(admin_cmd(pattern=r"lul"))
 async def _(event):
