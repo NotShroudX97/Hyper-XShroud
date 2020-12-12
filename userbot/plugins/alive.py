@@ -24,7 +24,7 @@ pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](http
 pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqUVNqdEPbtti4oFovEA)\n"
 pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [⚡𝐒𝐀𝐌𝐄𝐄𝐑⚡](@sameer_795)\n"
 pm_caption += " \n\n"
-pm_caption += "[✨𝔻𝔼ℙ𝕃𝕆𝕐 ℍ𝕐ℙ𝔼ℝ-𝕏 𝔹𝕆𝕋✨](https://github.com/sameerpanthi/NEXT-LEVEL) \n"
+pm_caption += "[✨𝔻𝔼ℙ𝕃𝕆𝕐 ℍ𝕐ℙ𝔼ℝ-𝕏 𝔹𝕆𝕋✨](https://github.com/sameerpanthi/HYPER-X) \n"
 
 @borg.on(admin_cmd(pattern=r"alive"))
 async def friday(alive):
