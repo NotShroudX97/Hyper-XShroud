@@ -1,7 +1,7 @@
-FROM sameerpanthi/NEXT-LEVEL:latest
+FROM sameerpanthi/HYPER-X:latest
 
 #clonning repo 
-RUN git clone https://github.com/sameerpanthi/NEXT-LEVEL.git /root/userbot
+RUN git clone https://github.com/sameerpanthi/HYPER-X.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
