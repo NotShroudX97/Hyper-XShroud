@@ -1,7 +1,7 @@
 {
-  "name": "NEXT-LEVEL",
-  "description": "A Userbot developed by @sameer_795 and maintained by #Team_NEXT-LEVEL ",
-  "logo": "https://telegra.ph/file/c2c44df2e47dd6934ad75.jpg",
+  "name": "HYPER-X",
+  "description": "A Userbot developed by ㄒ乇卂爪 卄ㄚ卩乇尺-乂 and maintained by #Team_NEXT-LEVEL ",
+  "logo": "https://telegra.ph/file/c9525dc4a553a32ef166e.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sameerpanthi/NEXT-LEVEL",
+  "repository": "https://github.com/sameerpanthi/HYPER-X",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
