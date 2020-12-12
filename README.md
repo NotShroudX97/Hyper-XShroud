@@ -12,7 +12,7 @@
 
 
 -------------------------------------------------
-匚尺乇卂ㄒㄖ尺 : [ıllıllı⭐🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟⭐ıllıllı](https://t.me/SAMEER_795)
+匚尺乇卂ㄒㄖ尺 : [ıll⭐🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟⭐ıllıllı](https://t.me/SAMEER_795)
 -------------------------------------------------
 ## Join our Support Group regrading bug fixes...and also join sociall group
 
