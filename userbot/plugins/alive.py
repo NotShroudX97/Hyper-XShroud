@@ -12,7 +12,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Unknown"
 
 """ =======================CONSTANTS====================== """
-PM_IMG = "https://telegra.ph/file/73901c4795bff833d98bc.jpg" 
+PM_IMG = "https://telegra.ph/file/0a7af73976cdb316feb3f.jpg" 
 """ =======================CONSTANTS====================== """
 pm_caption = "➣    **🔥 𝐇𝐘𝐏𝐄𝐑-𝐗 𝐁𝐎𝐓 🔥** `\n\n"
 
