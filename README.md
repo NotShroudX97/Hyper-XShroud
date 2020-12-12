@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="https://telegra.ph/file/0a7af73976cdb316feb3f.jpg">
+<img src="https://telegra.ph/file/c9525dc4a553a32ef166e.jpg">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -12,7 +12,8 @@
 
 
 -------------------------------------------------
-匚尺乇卂ㄒㄖ尺 : [🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟]
+匚尺乇卂ㄒㄖ尺 : 
+[🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟]
 -------------------------------------------------
 ## Join our Support Group regrading bug fixes...and also join sociall group
 
