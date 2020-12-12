@@ -16,10 +16,10 @@ else
     rm -rf .github
     rm -rf requirements.txt
     git clone https://github.com/sameerpanthi/HYPER-X  HYPER-X_ub
-    mv next-level_ub/userbot .
-    mv next-level_ub/.github . 
-    mv next-level_ub/.git .
-    mv next-level_ub/requirements.txt .
+    mv HYPER-X_ub /userbot .
+    mv HYPER-X_ub/.github . 
+    mv HYPER-X_ub/.git .
+    mv HYPER-X_ub/requirements.txt .
     rm -rf cat_ub
     python ./.github/update.py
 fi
