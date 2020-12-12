@@ -12,7 +12,7 @@
 
 
 -------------------------------------------------
-匚尺乇卂ㄒㄖ尺 : [🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟](https://t.me/SAMEER_795)
+匚尺乇卂ㄒㄖ尺 : [🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟]
 -------------------------------------------------
 ## Join our Support Group regrading bug fixes...and also join sociall group
 
@@ -23,7 +23,7 @@
 ## Installing Heroku 
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/NEXT-LEVEL)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/HYPER-X)
 
 Take Sting session from Replit
 [![Run on Repl.it](https://repl.it/badge/github/spandey112/SensibleUserbot)](https://repl.it/@SenseiOfficial/String-Session-1)
