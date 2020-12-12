@@ -22,7 +22,7 @@ pm_caption += "✘ ΔβØỮŦ Μ¥ Ş¥ŞŦ€Μ ✘\n\n"
 pm_caption += "➾ **𝐓𝐄𝐋𝐄𝐓𝐇𝐎𝐍**  ➣ 𝟏.𝟏𝟕.𝟓\n"
 pm_caption += "➾ **𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ** ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA)\n"
 pm_caption += "➾ **𝐒𝐎𝐂𝐈𝐀𝐋  **  ➣ [𝐉𝐎𝐈𝐍](https://t.me/joinchat/VhpqUVNqdEPbtti4oFovEA)\n"
-pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ [ㄒ乇卂爪 卄ㄚ卩乇尺-乂]\n"
+pm_caption += "➾ **𝐂𝐑𝐄𝐀𝐓𝐎𝐑** ➣ ㄒ乇卂爪 卄ㄚ卩乇尺-乂\n"
 pm_caption += " \n\n"
 pm_caption += "[✨𝔻𝔼ℙ𝕃𝕆𝕐 ℍ𝕐ℙ𝔼ℝ-𝕏 𝔹𝕆𝕋✨](https://github.com/sameerpanthi/HYPER-X) \n"
 
