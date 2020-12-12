@@ -12,9 +12,13 @@
 
 
 -------------------------------------------------
-匚尺乇卂ㄒㄖ尺 : 
-[🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟](@sameer_795)
+匚尺乇卂ㄒㄖ尺 : [🌟 T͙E͙A͙M͙ H͙Y͙P͙E͙R͙-X͙ 🌟](@sameer_795)
+
 -------------------------------------------------
+ㄒ乇卂爪 卄ㄚ卩乇尺-乂
+
+-------------------------------------------------
+
 ## Join our Support Group regrading bug fixes...and also join sociall group
 
 <a href="https://t.me/joinchat/VhpqURitfHVMgXMeENMPJA"><img src="https://img.shields.io/badge/Join-support%20Group-red.svg?logo=Telegram"></a>
